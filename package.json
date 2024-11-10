@@ -1,0 +1,24 @@
+{
+  "name": "les2",
+  "version": "1.0.0",
+  "description": "student HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShilovaIrina/Les2.git"
+  },
+  "keywords": [
+    "test",
+    "HW",
+    "neto"
+  ],
+  "author": "Irina Shilova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShilovaIrina/Les2/issues"
+  },
+  "homepage": "https://github.com/ShilovaIrina/Les2#readme"
+}
